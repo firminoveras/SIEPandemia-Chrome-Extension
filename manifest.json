@@ -1,0 +1,24 @@
+{
+    "name": "SIEPandemia",
+    "version": "0.1",
+    "description": "Justifique de maneira rápida as faltas no SIEPE do tipo pandemia.",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistence": false
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.siepe.educacao.pe.gov.br/diarioclasse/*" ,
+                "http://*.siepe.educacao.pe.gov.br/diarioclasse/*" 
+                 
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "manifest_version": 2
+}
