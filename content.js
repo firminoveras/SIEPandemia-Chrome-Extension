@@ -1,9 +1,9 @@
 var enabled = false;
 
-var targetDiv = document.getElementByClassName("btnHelpAmbiente");
+var targetDiv = document.getElementsByClassName("btnHelpAmbiente")[0];
 
 var buttonToggleEnable = document.createElement("button");
-buttonToggleEnable.innerHTML = "SIEPandemia Desligado";
+buttonToggleEnable.innerHTML = " SIEPandemia Desabilitado ";
 buttonToggleEnable.className = "siepandemiaButton";
 buttonToggleEnable.type = "button";
 
