@@ -19,6 +19,7 @@ O SIEPAndemia é destinado aos professores do estado de Pernambuco que desejam p
 * Clique no botão **Carregar sem compactação**
 * Com a janela de seleção de arquivos, selecione e abra a pasta que você extraiu os arquivos na Etapa 01 e confirme.
 * Na barra de navegação do Google Chrome, clique no ícone de "peça de quebra-cabeça", é onde aparecerá todas extensões instaladas no seu navegador, convém fixa o SIEPAndemia na barra de navegação para facilitar seu uso, basta clicar uma vez no alfinete para fixa-lo, assim o ícone do SIEPAndemia ficará sempre visível.
+
 ![](https://github.com/firminoveras/SIEPandemia-Chrome-Extension/blob/master/wiki/wiki02.png)
 
 ## Etapa 02: Usando o SIEPAndemia
@@ -26,6 +27,7 @@ O SIEPAndemia é destinado aos professores do estado de Pernambuco que desejam p
 * Selecione o Curso, Série, Ano e Escolha a turma que será preenchida.
 * Selecione a data.
 * Abra o SIEPAndemia clicando no seu ícone na barra de notificações, aparecerá o seguinte popup:
+
 ![](https://github.com/firminoveras/SIEPandemia-Chrome-Extension/blob/master/wiki/wiki03.png)
 >1. Lista de Estudantes: onde será colocado o nome dos estudantes que receberão falta justificada com pandemia, cada nome deverá ocupar apenas uma linha e deverá ser exatamente como mostrado no SIEPE, se uma letra for diferente o SIEPAndemia já considera como um estudante diferente, caso coloque um nome inválido, ou que não existe na turma, o SIEPAndemia automaticamente vai ignora-lo, ou seja, você pode colar a lista de **TODOS **os alunos que irão receber a falta justificada, mesmo que os que não pertencem à uma turma selecionada.
 >2. Botão Importar: Importa a lista de alunos da turma selecionada. `A implementar: Importa apenas os nomes dos alunos com justificativa Pandemia`
@@ -33,4 +35,5 @@ O SIEPAndemia é destinado aos professores do estado de Pernambuco que desejam p
 >4. Botão Ajuda: Redireciona o usuário para esta pagina.
 * Com a lista de alunos pronta, clique em Salvar e para fechar o popup clique novamente no ícone do SIEPAndemia.
 * No SIEPE, haverá um botão na barra superior direita chamado `Aplicar SIEPAndemia`, clicando nele, todos os alunos que estão na lista do popup terão suas faltas aplicadas e justificadas com pandemia.
+
 ![](https://github.com/firminoveras/SIEPandemia-Chrome-Extension/blob/master/wiki/wiki04.png)
