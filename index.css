@@ -1,0 +1,87 @@
+body{
+    background-color: #2E3440;
+    width: 274px;
+}
+
+p.label{
+    outline: none;
+    background-color:#BF616A;
+    width: 250px; 
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-top-left-radius: 4px ;
+    border-top-right-radius: 4px ;
+    color: #ECEFF4;
+    box-shadow: 4px 4px 8px #20242c;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+}
+
+textarea.textAreaStudentsName {
+    position: relative;
+    margin-top: 0px;
+    margin: 0px; 
+    width: 250px; 
+    height: 400px; 
+    resize: vertical; 
+    min-height: 200px;
+    background-color:#434C5E;
+    border-width: 0px;
+    border-radius: 2px;
+    box-shadow: 4px 4px 8px #20242c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ECEFF4;
+    outline: none;
+    padding: 10px;
+    font-size: 9px;
+}
+
+button{
+    font-variant: small-caps;
+    outline: none;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #5E81AC;
+    border-radius: 2px;
+    border-width: 0px;
+    color: #ECEFF4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 4px 4px 8px #20242c;
+}
+
+button{
+    font-variant: small-caps;
+    outline: none;
+    position: relative;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #5E81AC;
+    border-radius: 2px;
+    border-width: 0px;
+    color: #ECEFF4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 4px 4px 8px #20242c;
+    text-align: center;
+}
+
+button:hover{
+    background-color: #81A1C1;
+}
+
+button:active{
+    background-color: #88C0D0;
+}
+
+div.divButtons{
+    display: inline-block;
+}
