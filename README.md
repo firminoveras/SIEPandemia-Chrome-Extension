@@ -22,7 +22,7 @@ O SIEPAndemia é destinado aos professores do estado de Pernambuco que desejam p
 
 ![](https://github.com/firminoveras/SIEPandemia-Chrome-Extension/blob/master/wiki/wiki02.png)
 
-## Etapa 02: Usando o SIEPAndemia
+## Etapa 03: Usando o SIEPAndemia
 * Entre no SIEPE e navegue até a página de Frequência do Estudante
 * Selecione o Curso, Série, Ano e Escolha a turma que será preenchida.
 * Selecione a data.
