@@ -3,8 +3,10 @@ document.addEventListener('DOMContentLoaded', function () {
     var savedValue;
 
     chrome.storage.local.get(['key'], function (result) {
-        document.querySelector('#textAreaStudentsName').value = result.key.trim();
-        savedValue = result.key.trim();
+        if (result != undefined) {
+            document.querySelector('#textAreaStudentsName').value = result.key;
+            savedValue = result.key;
+        }
     });
 
     document.querySelector('#buttonApply').addEventListener('click', function () {
