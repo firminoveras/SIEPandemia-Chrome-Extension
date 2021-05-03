@@ -30,7 +30,7 @@ O SIEPAndemia é destinado aos professores do estado de Pernambuco que desejam p
 
 ![](https://github.com/firminoveras/SIEPandemia-Chrome-Extension/blob/master/wiki/wiki03.png)
 >1. Lista de Estudantes: onde será colocado o nome dos estudantes que receberão falta justificada com pandemia, cada nome deverá ocupar apenas uma linha e deverá ser exatamente como mostrado no SIEPE, se uma letra for diferente o SIEPAndemia já considera como um estudante diferente, caso coloque um nome inválido, ou que não existe na turma, o SIEPAndemia automaticamente vai ignora-lo, ou seja, você pode colar a lista de **TODOS **os alunos que irão receber a falta justificada, mesmo que os que não pertencem à uma turma selecionada.
->2. Botão Importar: Importa a lista de alunos da turma selecionada. `A implementar: Importa apenas os nomes dos alunos com justificativa Pandemia`
+>2. Botão Importar: Importa a lista de alunos com o status de FALTA JUSTIFICADA MODITVO PANDEMIA da turma selecionada.
 >3. Botão Salvar: Sempre que editar a lista de estudantes, é importante que o usuário salve essas alterações, caso contrário o SIEPAndemia descartará as alterações após o fechamento do popup.
 >4. Botão Ajuda: Redireciona o usuário para esta pagina.
 * Com a lista de alunos pronta, clique em Salvar e para fechar o popup clique novamente no ícone do SIEPAndemia.
