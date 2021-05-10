@@ -1,6 +1,6 @@
 {
     "name": "SIEPandemia",
-    "version": "0.1",
+    "version": "1.0",
     "description": "Justifique de maneira rápida as faltas no SIEPE do tipo pandemia.",
     "icons": {
         "16": "img/icon16.png",
@@ -28,5 +28,5 @@
         }
     ],
     "manifest_version": 2,
-    "permissions" : ["tabs", "storage"]
+    "permissions" : ["storage"]
 }
